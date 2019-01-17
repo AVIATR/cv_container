@@ -1,2 +1,2 @@
 # cv_container
-Docker container with opencv
+Docker container with opencv and ffmpeg.
